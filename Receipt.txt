@@ -1,0 +1,8 @@
+	brush	25.6	2
+	soap	89	3
+book	20	1
+pencil	3	1
+almond	20	1
+cashew	30	2
+eraser	5	5
+chips	10	8
